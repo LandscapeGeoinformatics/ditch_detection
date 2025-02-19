@@ -1,6 +1,8 @@
 # Code supplement: Detection of Drainage Ditches from LiDAR DTM Using U-Net and Transfer Learning
 Code supplement: Detection of Drainage Ditches from LiDAR DTM Using U-Net and Transfer Learning
 
+Link to corresponding Zenodo repository: [![DOI](https://zenodo.org/badge/935357142.svg)](https://doi.org/10.5281/zenodo.14892850)
+
 Contributions from the following authors from [Landscape Geoinformatics Lab](https://landscape-geoinformatics.ut.ee/):
 - Holger Virro <a href="https://orcid.org/0000-0001-6110-5453"><img src="orcid_icon.png" width="12px" height="12px" /></a>
 - Alexander Kmoch <a href="https://orcid.org/0000-0003-4386-4450"><img src="orcid_icon.png" width="12px" height="12px" /></a>
